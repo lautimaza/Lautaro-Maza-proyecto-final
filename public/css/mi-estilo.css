@@ -1,0 +1,71 @@
+nav{
+    padding: 0%;
+    background-color: rgb(19,19,19);
+}
+.navbar-brand{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 200;
+}
+
+.nav-item{
+    color: rgb(255, 255, 255);
+    font-family: Impac  t, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.nav-link{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #ffffff;
+}
+.navbar{
+    position: sticky;
+    margin-bottom: 0px;
+    top: 0px;
+    margin-left: 0px;
+    margin-right: 0pc;
+    text-align: left;
+    padding: 0%;
+    background-color: rgb(19,19,19);
+}
+body{
+    background: rgb(0, 0, 0);
+    background: linear-gradient(125deg, rgb(0, 0, 0) 0%, rgb(41, 1, 28) 35%, rgb(0, 0, 0) 100%);
+    padding: 0%;
+    width: 100%;
+    height: auto;
+}
+.text-center{
+    color: rgb(255, 255, 255);
+    font-weight:200;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.container{
+    color: rgb(255, 255, 255);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: normal;
+    padding: 0%;
+}
+
+.col{
+    color: #fff;
+    text-align: justify;
+    padding: 20px;
+}
+.d-flex{
+    background: black;
+    padding: 10px;
+    border-radius: 10px  ;
+}
+
+footer{
+    text-align: center;
+    left:0px;   
+    height:30px;
+    width:100%;
+    background:#999;
+    bottom:0%;
+    top: 100%;
+}
+.ft{
+    background-color:rgb(19, 19, 19);
+    color: #ffffff;
+}
+
